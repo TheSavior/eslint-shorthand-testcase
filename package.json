@@ -6,6 +6,6 @@
     "test": "eslint index.js"
   },
   "devDependencies": {
-    "eslint": "^2.12.0"
+    "eslint": "^3.9.1"
   }
 }
